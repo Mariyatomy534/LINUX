@@ -1,0 +1,67 @@
+mca@MCA37:~/Documents$ chmod +x pgm10.sh
+mca@MCA37:~/Documents$ ./pgm10.sh
+Enter number of terms: 12
+Fibonacci Series:
+0 1 1 2 3 5 8 13 21 34 55 89 
+mca@MCA37:~/Documents$ 
+
+
+
+
+mca@MCA37:~/Documents$ chmod +x factorial.sh
+mca@MCA37:~/Documents$ ./factorial.sh
+Enter a number: 23
+Factorial of 23 is 8128291617894825984
+mca@MCA37:~/Documents$ 
+
+
+mca@MCA37:~/Documents$ chmod +x pgm7.sh
+mca@MCA37:~/Documents$ ./pgm7.sh
+Enter n: 4
+Sum of first 4 natural numbers is 10
+mca@MCA37:~/Documents$ 
+
+
+
+
+mca@MCA37:~/Documents$ chmod +x pgm6.sh
+mca@MCA37:~/Documents$ ./pgm6.sh
+Enter first number: 12
+Enter second number: 23
+Enter third number: 45
+45 is the largest number
+mca@MCA37:~/Documents$ 
+
+
+
+
+
+mca@MCA37:~/Documents$ chmod +x oddoreven.sh
+mca@MCA37:~/Documents$ ./oddoreven.sh
+Enter a number: 2
+2 is Even
+mca@MCA37:~/Documents$ 
+
+
+mca@MCA37:~/Documents$ chmod +x leapyear.sh
+mca@MCA37:~/Documents$ ./leapyear.sh
+Enter a year: 2025
+2025 is not a leap year
+mca@MCA37:~/Documents$ 
+
+mca@MCA37:~/Documents$ chmod +x largest.sh
+mca@MCA37:~/Documents$ ./largest.sh
+Enter three numbers:
+12 34 45
+Largest number is: 45
+mca@MCA37:~/Documents$ 
+
+mca@MCA37:~/Documents$ chmod +x largest.sh
+mca@MCA37:~/Documents$ ./largest.sh
+Enter three numbers:
+12 34 45
+Largest number is: 45
+mca@MCA37:~/Documents$ 
+
+
+
